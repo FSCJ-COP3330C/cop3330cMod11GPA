@@ -1,3 +1,5 @@
+#cop3330cMod11GPA
+
 Implement a public Kitten class which contains the following members:    
     
     private String name    
